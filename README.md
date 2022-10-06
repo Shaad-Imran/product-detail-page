@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/Shaad-Imran/funel-product-detail-page)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/Shaad-Imran/product-detail-page)
   
   <br />
   
